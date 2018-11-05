@@ -1,0 +1,5 @@
+email,password,status,message
+demo5122@hotmail.com,madrid12,failed,The email address already exists in our system.
+demo22@hotmail.com,madrid12,failed,The email address already exists in our system.
+demo32@hotmail.com,mad,failed,Password must be at least 7 characters
+demo2222@hotmail.com,madrid12,failed,The email address already exists in our system.
